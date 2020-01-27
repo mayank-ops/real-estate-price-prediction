@@ -1,0 +1,4 @@
+assuming you have the latest python installed
+
+1.go to server folder and run server.py
+2.then go to client folder and run app.html
